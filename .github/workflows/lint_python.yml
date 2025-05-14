@@ -1,7 +1,7 @@
-name: lint_python
+name: Gailsey Geddes
 on: [pull_request, push]
 jobs:
-  lint_python:
+  Gailsey Geddes:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
